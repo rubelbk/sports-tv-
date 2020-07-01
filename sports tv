@@ -1,0 +1,8 @@
+#EXTINF:-1,Star Sports 1
+http://167.114.41.215:8080/stsp1/stsp1/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://167.114.41.215:8080/stsp2/stsp2/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://167.114.41.215:8080/stsp3/stsp3/index.m3u8
+#EXTINF:-1,Star Sports 4
+http://167.114.41.215:8080/stsp4/stsp4/index.m3u8
